@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   font-family: 'Roboto', sans-serif;
+  
 }
 html{
   height:100%;
@@ -26,8 +27,12 @@ nav{
 }
 
 .section{
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
+  // background-image: url("https://www.publicdomainpictures.net/pictures/240000/velka/bright-pink-background.jpg");
+  // background-position: center;
+  // background-size: cover;
+  // background-repeat: no-repeat;
 }
 
 
@@ -67,6 +72,9 @@ p{
 .intro{
   width: 50%;
 }
+.quote{
+  font-weight: bold;
+}
 }
 
 .journey{
@@ -89,9 +97,113 @@ p{
 }
 
 //Diet Page
-
+#subscribe{
+i{
+padding-right: 20px;
+color: white;
+}
+.button{
+  background-color: violet;
+  margin-bottom: 5px;
+}
+span{
+  color: white;
+  font-weight: bold;
+}
 .t2{
   font-size: 20px;
 }
+}
+
 
 //FAQ PAGE
+#faq-title{
+  text-align: center;
+  font-size: 45px;
+}
+.service{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+  text-justify: inter-word;
+.service-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 70%;
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 01.9em 1em -0.125em rgba(10,10,10,0.1);
+  display: block;
+  padding: 1.25rem;
+}
+  ul{
+    padding-left: 20px;
+  }
+li{
+  list-style-type: circle;
+  padding-bottom: 5px;
+}
+.service-sub{
+  font-weight: bolder;
+}
+}
+
+  .pic-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    height:300px;
+    width: 300px;
+    padding-top: 30px;
+  }
+
+  
+
+
+
+
+//CONTACT PAGE
+
+.contact{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+  }
+  .icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  i{
+    padding-right: 20px;
+    color: white;
+  }
+  span{
+    color: white;
+    font-weight: bold;
+  }
+  .button{
+    background-color: violet;
+    margin-bottom: 5px;
+  }
+  .pic-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  #profile{
+    width: 300px;
+    height: 300px;
+  }
+}

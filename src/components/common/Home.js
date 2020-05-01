@@ -17,19 +17,19 @@ class Home extends React.Component{
           
           <h2 className="title">My Journey</h2>
           <img src={T1} id="transform" alt="transformation"/>
-          <p>Are you constantly tired, puffy and bloated?</p>
+          <p className="quote">Are you constantly tired, puffy and bloated?</p>
           <br/>
-          <p>Have you tried EVERY diet under the sun? </p>
+          <p className="quote">Have you tried EVERY diet under the sun? </p>
           <br/>
-          <p>Slave away in the gym but still get no results? </p>
+          <p className="quote">Slave away in the gym but still get no results? </p>
           <br/>
-          <p>Don’t worry, that was me. I was in the same boat, so can totally relate. </p>
+          <p className="quote"> Don’t worry, that was me. I was in the same boat, so can totally relate. </p>
           <br/>
-          <p>With just a few simple steps and lifestyle changes I managed to shift the pounds and get a spring back in my step once and for all!</p>
+          <p className="quote">With just a few simple steps and lifestyle changes I managed to shift the pounds and get a spring back in my step once and for all!</p>
           <img src={T2} id="transform" alt="transformation"/>
-          <p>Let me help you love yourself again and live your best life.</p>
+          <p className="quote">Let me help you love yourself again and live your best life.</p>
           <br/>
-          <p>We’ve only got one at the end of the day so let’s make it count!</p>
+          <p className="quote">We’ve only got one at the end of the day so let’s make it count!</p>
           <img src={T3} id="transform" alt="transformation"/>
           </div>
         </div>

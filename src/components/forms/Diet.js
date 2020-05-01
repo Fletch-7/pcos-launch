@@ -1,49 +1,20 @@
 import React from 'react'
 
+// import G1 from '../assets/beach.JPG'
+
 class Diet extends React.Component{
   render(){
     return(
-      <section className="section">
+      <section className="section" id="subscribe">
         <div className="container">
           <div className="faq-body">
         <h2 className="title">Its a PCOS party everyday!</h2>
-        <h3 className="t2">Please fill out your details below to get my free PCOS weight loss action plan</h3>
+        <h3 className="t2">Please click the link and sign-up to receive your free action plan</h3>
+        <br/>
+        <a href="http://eepurl.com/g1UQLH" className="button" alt="link"><i class="far fa-smile-beam fa-2x"></i><span>YAAAAAAAAAAS QUEEN!</span></a>
+        <br/>
+        {/* <img src={G1} id="profile" alt="pic"/> */}
         </div>
-          <div className="columns">
-            <form action="mailto:r.a.m.fletcher7@gmail.com" method="POST" className="column is-half is-offset-one-quarter">
-              <br/>
-              <div className="field">
-                <label className="label">Name</label>
-                <div className="control has-icons-left">
-                  <input 
-                    className="input"
-                    placeholder="Name"
-                    required
-                    type="text"
-                  />
-                  <span className="icon is-small is-left">
-                    <i className="fas fa-user"></i>
-                  </span>
-                </div>
-              </div>
-              <div className="field">
-                <label className="label">Email</label>
-                <div className="control has-icons-left"> 
-                  <input 
-                    className="input"
-                    type="email"
-                    placeholder="Email"
-                    required
-                  />
-                  <span className="icon is-small is-left">
-                    <i className="fas fa-envelope"></i>
-                  </span>
-                </div>
-              </div>
-              <button type="submit" className="button is-warning is-fullwidth">Submit
-              </button>
-            </form>
-          </div>
         </div>
       </section>
     )

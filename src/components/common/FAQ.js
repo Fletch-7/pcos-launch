@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import G1 from '../assets/gym-2.JPG'
 import G2 from '../assets/gym-7.JPG'
@@ -12,7 +13,7 @@ class FAQ extends React.Component{
 
       <div className="service">
         <div className="service-container">
-          <h2 className="title">The PCOS Party E-book</h2>
+          <h2 className="title" id="title-main">The PCOS Party E-book</h2>
           <br/>
             <p>A 200 page ebook that I developed over several years from my education, experience and knowledge. It's all of my advice and information that I would have loved to have available to me 10 years ago. The great thing for you is that you don't have to take years of trial and error, and spend money on qualifications to figure it out.</p>
             <br/>
@@ -38,7 +39,7 @@ class FAQ extends React.Component{
 
       <div className="service">
         <div className="service-container">
-          <h2 className="title">PCOS 1-1 Coaching</h2>
+          <h2 className="title" id="title-main">PCOS 1-1 Coaching</h2>
           <br/>
             <p>We work closely together to get yourhealthy habits locked down so that you can live your best life and enjoy your new energy, a transformed body and positive mindset.</p>
             <br/>
@@ -68,10 +69,16 @@ class FAQ extends React.Component{
 
       <div className="service">
         <div className="service-container">
-          <h2 className="title">Personal Training</h2>
+          <h2 className="title" id="title-main">Personal Training</h2>
           <br/>
             <p>As a qualified Level 2 and 3 personal trainer, 1 to 1 sessions are available over video or zoom call only.</p>
         </div>
+      </div>
+
+      <br/>
+
+      <div className="service">
+      <Link to="/contact" className="button" alt="link"><span>CLICK NOW! For your FREE consultation call</span></Link>
       </div>
 
       <br/>

@@ -9,7 +9,7 @@ class Contact extends React.Component{
       <section className="section" >
         <div className="contact">
         <div className="container">
-        <h1 className="title">Contact</h1>
+        <h1 className="title"id="title-main">Contact</h1>
         <br/>
         <p>I want to reiterate how you are not alone and I am here to help. I want to cut all the corners for you and teach you everything I know so you can lose weight, feel amazing and be on the right path to living your best life. </p>
         <br/>

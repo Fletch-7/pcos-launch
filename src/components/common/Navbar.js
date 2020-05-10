@@ -12,7 +12,7 @@ class Navbar extends React.Component{
   render(){
     const { navbarOpen } = this.state
     return(
-      <nav className="navbar is-fixed-top" id="navi">
+      <nav className="navbar is-fixed-top is-transparent" id="navi">
       <div className="container">
       <div className="navbar-brand">
       <Link className="navbar-item" to="/">PCOS PARTY</Link>

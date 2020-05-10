@@ -11,7 +11,7 @@ class Diet extends React.Component{
         <h2 className="title">Its a PCOS party everyday!</h2>
         <h3 className="t2">Please click the link and sign-up to receive your free action plan</h3>
         <br/>
-        <a href="http://eepurl.com/g1UQLH" className="button" alt="link"><i class="far fa-smile-beam fa-2x"></i><span>YAAAAAAAAAAS QUEEN!</span></a>
+        <a href="http://eepurl.com/g1UQLH" className="button" alt="link"><i className="far fa-smile-beam fa-2x"></i><span>YAAAAAAAAAAS QUEEN!</span></a>
         <br/>
         {/* <img src={G1} id="profile" alt="pic"/> */}
         </div>

@@ -26,6 +26,10 @@ nav{
   }
 }
 
+#navi > div > div.navbar-menu.is-active > div > a{
+  color: violet;
+}
+
 .section{
   height: 100%;
   width: 100%;

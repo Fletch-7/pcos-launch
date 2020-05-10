@@ -10,7 +10,7 @@ class Home extends React.Component{
     return(
       <section className="section">
         <div className="home-body">
-          <h1 className="title">The PCOS POSSE</h1>
+          <h1 className="title">It's a PCOS PARTY</h1>
           <div className="home-container">
             <img src={Profile} id="profile" alt="profile"/>
             <p className="intro">Hello! I'm Georgie Ricks, A degree qualified nutritionist, Level 3 personal trainer and life coach specialising in PCOS. After suffering for 15 years, losing 30kg and getting all my symptoms under control, I am on a mission to help you become strong, confident, healthy and happy - as thats exactly what we all deserve. P.s. The best part? I still drink wine, like to party, stay in shape and feel great - which you can do too! </p>

@@ -21,7 +21,7 @@ class FAQ extends React.Component{
             <br/>
             <ul>
               <li>A 7 DAY reset kick start weight loss nutrition plan, with calculated calories, macros and full recipes/instructions </li>
-              <li>My PCOS handbook of exactly what our condition is, why we get it and how we can manage it </li>
+              <li>My PCOS handbook outlines exactly what our condition is, why we get it and how we can manage it </li>
               <li>My own Journey and ALL my hints, tips and tricks. It literally tells you exactly how I managed to lose my weight, and how you can too. </li>
               <li>Over 100 PCOS friendly RECIPES of such delicious foods (made, tried and tested by a professional chef and myself)</li>
               <li>PCOS friendly shopping lists</li>
@@ -41,7 +41,7 @@ class FAQ extends React.Component{
         <div className="service-container">
           <h2 className="title" id="title-main">PCOS 1-1 Coaching</h2>
           <br/>
-            <p>We work closely together to get yourhealthy habits locked down so that you can live your best life and enjoy your new energy, a transformed body and positive mindset.</p>
+            <p>We will work closely together to understand your goals, establish lifestyle changes and Implement new healthy habits. I’ll create a personalised program for you to boost overall energy, transform your body and build a positive mindset.</p>
             <br/>
             <p>I’ll help you turn PCOS into a sustainable lifestyle through my tips and tricks, becoming your motivator, coach but most of all -friend.</p>
               <br/>

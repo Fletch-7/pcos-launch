@@ -241,6 +241,17 @@ span{
     flex-direction: row;
     justify-content: center;
   }
+  ul{
+    padding-left: 20px;
+  }
+  li{
+    list-style-type: circle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .NB{
+    font-weight: bolder;
+  }
   #profile{
     width: 300px;
     height: 300px;

@@ -8,6 +8,7 @@ import Navbar from './components/common/Navbar'
 import FAQ from './components/common/FAQ'
 import Contact from './components/common/Contact'
 import Diet from './components/forms/Diet'
+import Footer from './components/common/Footer'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
     <Route path="/contact" component={Contact}/>
     </Switch>
     </main>
+    <Footer/>
     </BrowserRouter>
 
   );

@@ -85,9 +85,9 @@ class FAQ extends React.Component{
 
       <div className="contact-pics">
           <div className="pic-container">
-            <img src={G1} id="profile" alt="pic"/>
+            <img src={G1} id="profile" alt="pic" className="is-hidden-mobile"/>
             <img src={G2} id="profile" alt="pic"/>
-            <img src={G3} id="profile" alt="pic"/>
+            <img src={G3} id="profile" alt="pic" className="is-hidden-mobile"/>
           </div>
         </div>
 

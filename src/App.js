@@ -16,7 +16,7 @@ function App() {
     <main>
     <Navbar/>
     <Switch>
-    <Route exact path="/" component={Home}/>
+    <Route exact path="/pcos-launch" component={Home}/>
     <Route path="/diet" component={Diet}/>
     <Route path="/faq" component={FAQ}/>
     <Route path="/contact" component={Contact}/>

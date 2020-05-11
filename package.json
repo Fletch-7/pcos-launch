@@ -1,6 +1,6 @@
 {
   "homepage": "http://Fletch-7.github.io/pcos-launch",
-  "name": "pcos-app",
+  "name": "pcos-launch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

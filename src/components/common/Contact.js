@@ -28,8 +28,8 @@ class Contact extends React.Component{
 
         <div className="contact-pics">
           <div className="pic-container">
-            <img src={P1} id="profile" alt="pic"/>
-            <img src={P2} id="profile" alt="pic"/>
+            <img src={P1} id="profile" alt="pic" className="is-flex-mobile"/>
+            <img src={P2} id="profile" alt="pic" className="is-hidden-mobile"/>
           </div>
         </div>
 

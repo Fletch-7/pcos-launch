@@ -64,17 +64,19 @@ a.navbar-item.is-active{
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: justify;
+  text-justify: inter-word;
 }
 #profile{
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
   border-radius: 50%;
   padding: 30px;
   
 }
 #transform{
-height: 600px;
-width: 600px;
+height: 400px;
+width: 400px;
 padding-top: 40px;
 padding-bottom: 40px;
 }
@@ -98,6 +100,13 @@ p{
 }
 span{
   color: white;
+}
+@media only screen and (max-width: 840px) {
+
+  p{
+    font-size: 14px;
+  }
+
 }
 }
 

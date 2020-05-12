@@ -34,7 +34,7 @@ class Home extends React.Component{
           <p className="quote">We’ve only got one at the end of the day so let’s make it count!</p>
           <img src={T3} id="push" alt="transformation"/>
           <br/>
-          <Link to="/contact" className="button" alt="link"><span>CLICK NOW! For your FREE consultation call</span></Link>
+          <Link className="button" to="/contact" alt="link"><span>CLICK NOW! For your FREE consultation call</span></Link>
           </div>
         </div>
       </section>

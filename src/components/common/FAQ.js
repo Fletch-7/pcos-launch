@@ -78,7 +78,7 @@ class FAQ extends React.Component{
       <br/>
 
       <div className="service">
-      <Link to="/contact" className="button" alt="link"><span>CLICK NOW! For your FREE consultation call</span></Link>
+      <Link className="button" to="/contact" alt="link"><span>CLICK NOW! For your FREE consultation call</span></Link>
       </div>
 
       <br/>

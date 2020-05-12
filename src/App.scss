@@ -121,6 +121,9 @@ span{
   a{
     width: auto;
   }
+  .button{
+    width: auto;
+  }
   #transform{
     height: 350;
     width: 350;
@@ -233,12 +236,15 @@ span{
     font-size: 14px;
   }
   .service-container{
-    width: 90%;
+    width: 100%;
   }
   li{
     font-size: 14px;
   }
   a{
+    width: auto;
+  }
+  .button{
     width: auto;
   }
   h2{

@@ -61,7 +61,7 @@ class FAQ extends React.Component{
               <li>Exercise -  You'll learn the best exercise for PCOS and how to manage your hormones </li>
           </ul>
           <br/>
-            <p>It's literally my bible of everything I've learnt over the past 15 years and I can assure you, it will work for you too. </p>
+            <p>Let me be your coach so we can work together closely and achieve your goals. You deserve to feel like a Queen and I won’t give up until you do! </p>
         </div>
       </div>
 

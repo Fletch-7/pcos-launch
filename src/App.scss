@@ -309,6 +309,12 @@ span{
   text-align: justify;
   text-justify: inter-word;
   }
+  .contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
   .icons{
     display: flex;
     flex-direction: column;

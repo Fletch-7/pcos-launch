@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pcos-launch/static/css/main.47bc4ba0.chunk.css",
+    "main.css": "/pcos-launch/static/css/main.d5bc75c5.chunk.css",
     "main.js": "/pcos-launch/static/js/main.0f97300b.chunk.js",
     "main.js.map": "/pcos-launch/static/js/main.0f97300b.chunk.js.map",
     "runtime-main.js": "/pcos-launch/static/js/runtime-main.0209c068.js",
@@ -9,10 +9,10 @@
     "static/js/2.5b75f7c1.chunk.js": "/pcos-launch/static/js/2.5b75f7c1.chunk.js",
     "static/js/2.5b75f7c1.chunk.js.map": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.map",
     "index.html": "/pcos-launch/index.html",
-    "precache-manifest.dfaaf5d0792cc16d7fd64d79274aa167.js": "/pcos-launch/precache-manifest.dfaaf5d0792cc16d7fd64d79274aa167.js",
+    "precache-manifest.a280044758efca812144885903dcfd5a.js": "/pcos-launch/precache-manifest.a280044758efca812144885903dcfd5a.js",
     "service-worker.js": "/pcos-launch/service-worker.js",
     "static/css/2.c4f291ab.chunk.css.map": "/pcos-launch/static/css/2.c4f291ab.chunk.css.map",
-    "static/css/main.47bc4ba0.chunk.css.map": "/pcos-launch/static/css/main.47bc4ba0.chunk.css.map",
+    "static/css/main.d5bc75c5.chunk.css.map": "/pcos-launch/static/css/main.d5bc75c5.chunk.css.map",
     "static/js/2.5b75f7c1.chunk.js.LICENSE.txt": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.LICENSE.txt",
     "static/media/gym-1.JPG": "/pcos-launch/static/media/gym-1.cd0b4525.JPG",
     "static/media/gym-2.JPG": "/pcos-launch/static/media/gym-2.8cdea6f4.JPG",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.0209c068.js",
     "static/css/2.c4f291ab.chunk.css",
     "static/js/2.5b75f7c1.chunk.js",
-    "static/css/main.47bc4ba0.chunk.css",
+    "static/css/main.d5bc75c5.chunk.css",
     "static/js/main.0f97300b.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pcos-launch/precache-manifest.dfaaf5d0792cc16d7fd64d79274aa167.js"
+  "/pcos-launch/precache-manifest.a280044758efca812144885903dcfd5a.js"
 );
 
 self.addEventListener('message', (event) => {

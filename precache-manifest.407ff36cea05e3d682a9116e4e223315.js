@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e28334830c48ca3ac65e4d2d6b6c064c",
+    "revision": "634ce24b9cb14eae91ae816e87ebb216",
     "url": "/pcos-launch/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/css/2.c4f291ab.chunk.css"
   },
   {
-    "revision": "59f64c0a60dfd078c735",
-    "url": "/pcos-launch/static/css/main.b5d82326.chunk.css"
+    "revision": "da8ab8f415bf1a152d0e",
+    "url": "/pcos-launch/static/css/main.cbc98d45.chunk.css"
   },
   {
     "revision": "ed8e93454e70b9c2bfc0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59f64c0a60dfd078c735",
-    "url": "/pcos-launch/static/js/main.0f97300b.chunk.js"
+    "revision": "da8ab8f415bf1a152d0e",
+    "url": "/pcos-launch/static/js/main.5940ac60.chunk.js"
   },
   {
     "revision": "01d53012de46649edd49",
@@ -32,16 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/media/gym-1.cd0b4525.JPG"
   },
   {
-    "revision": "8cdea6f4ba75e17e38378ce516525cf7",
-    "url": "/pcos-launch/static/media/gym-2.8cdea6f4.JPG"
-  },
-  {
     "revision": "1412220c2f558cdc404be0355294db87",
     "url": "/pcos-launch/static/media/gym-3.1412220c.JPG"
-  },
-  {
-    "revision": "58ded299fe6916d5bedbe8562dfe7ee5",
-    "url": "/pcos-launch/static/media/gym-5.58ded299.JPG"
   },
   {
     "revision": "cfee5f7742d7daac84373bf63de01e36",
@@ -52,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/media/gym-7.e632da93.JPG"
   },
   {
+    "revision": "e48b0b11f1d9a45d4346c4c4699bd4dd",
+    "url": "/pcos-launch/static/media/gym-sq.e48b0b11.JPG"
+  },
+  {
     "revision": "9882e569baeab3b6e10fd3698b6ab045",
     "url": "/pcos-launch/static/media/profile-2.9882e569.JPG"
+  },
+  {
+    "revision": "875b4f21bce7fe92f402bf9400f28d72",
+    "url": "/pcos-launch/static/media/push-up.875b4f21.JPG"
   },
   {
     "revision": "e5110ac9b0c9a139452a2341eeff2c61",

@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pcos-launch/static/css/main.b5d82326.chunk.css",
-    "main.js": "/pcos-launch/static/js/main.0f97300b.chunk.js",
-    "main.js.map": "/pcos-launch/static/js/main.0f97300b.chunk.js.map",
+    "main.css": "/pcos-launch/static/css/main.cbc98d45.chunk.css",
+    "main.js": "/pcos-launch/static/js/main.5940ac60.chunk.js",
+    "main.js.map": "/pcos-launch/static/js/main.5940ac60.chunk.js.map",
     "runtime-main.js": "/pcos-launch/static/js/runtime-main.0209c068.js",
     "runtime-main.js.map": "/pcos-launch/static/js/runtime-main.0209c068.js.map",
     "static/css/2.c4f291ab.chunk.css": "/pcos-launch/static/css/2.c4f291ab.chunk.css",
     "static/js/2.5b75f7c1.chunk.js": "/pcos-launch/static/js/2.5b75f7c1.chunk.js",
     "static/js/2.5b75f7c1.chunk.js.map": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.map",
     "index.html": "/pcos-launch/index.html",
-    "precache-manifest.782bbf152eeee48267fb7e30ec4fdda6.js": "/pcos-launch/precache-manifest.782bbf152eeee48267fb7e30ec4fdda6.js",
+    "precache-manifest.407ff36cea05e3d682a9116e4e223315.js": "/pcos-launch/precache-manifest.407ff36cea05e3d682a9116e4e223315.js",
     "service-worker.js": "/pcos-launch/service-worker.js",
     "static/css/2.c4f291ab.chunk.css.map": "/pcos-launch/static/css/2.c4f291ab.chunk.css.map",
-    "static/css/main.b5d82326.chunk.css.map": "/pcos-launch/static/css/main.b5d82326.chunk.css.map",
+    "static/css/main.cbc98d45.chunk.css.map": "/pcos-launch/static/css/main.cbc98d45.chunk.css.map",
     "static/js/2.5b75f7c1.chunk.js.LICENSE.txt": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.LICENSE.txt",
     "static/media/gym-1.JPG": "/pcos-launch/static/media/gym-1.cd0b4525.JPG",
-    "static/media/gym-2.JPG": "/pcos-launch/static/media/gym-2.8cdea6f4.JPG",
     "static/media/gym-3.JPG": "/pcos-launch/static/media/gym-3.1412220c.JPG",
-    "static/media/gym-5.JPG": "/pcos-launch/static/media/gym-5.58ded299.JPG",
     "static/media/gym-6.JPG": "/pcos-launch/static/media/gym-6.cfee5f77.JPG",
     "static/media/gym-7.JPG": "/pcos-launch/static/media/gym-7.e632da93.JPG",
+    "static/media/gym-sq.JPG": "/pcos-launch/static/media/gym-sq.e48b0b11.JPG",
     "static/media/profile-2.JPG": "/pcos-launch/static/media/profile-2.9882e569.JPG",
+    "static/media/push-up.JPG": "/pcos-launch/static/media/push-up.875b4f21.JPG",
     "static/media/transform-1.JPG": "/pcos-launch/static/media/transform-1.e5110ac9.JPG",
     "static/media/transform-2.JPG": "/pcos-launch/static/media/transform-2.9705fad5.JPG",
     "static/media/transform-3.JPG": "/pcos-launch/static/media/transform-3.6c75f78b.JPG"
@@ -29,7 +29,7 @@
     "static/js/runtime-main.0209c068.js",
     "static/css/2.c4f291ab.chunk.css",
     "static/js/2.5b75f7c1.chunk.js",
-    "static/css/main.b5d82326.chunk.css",
-    "static/js/main.0f97300b.chunk.js"
+    "static/css/main.cbc98d45.chunk.css",
+    "static/js/main.5940ac60.chunk.js"
   ]
 }

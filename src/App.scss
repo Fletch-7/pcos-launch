@@ -64,8 +64,6 @@ a.navbar-item.is-active{
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: justify;
-  text-justify: inter-word;
 }
 #profile{
   height: 400px;
@@ -106,6 +104,10 @@ span{
   p{
     font-size: 14px;
   }
+  .intro{
+    width: 100%;
+  }
+  
 
 }
 }
@@ -152,13 +154,24 @@ span{
   padding-top: 10px;
   padding-bottom: 10px;
   }
+  @media only screen and (max-width: 840px) {
+
+    .title{
+      font-size: 30px;
+    }
+    .t2{
+      font-size: 20px;
+      text-align: center;
+    }
+  }
 }
 
 
 //FAQ PAGE
 #faq-title{
   text-align: center;
-  font-size: 45px;
+  font-size: 40px;
+  font-weight: bold;
   color: #7561bb;
 }
 .service{
@@ -195,6 +208,19 @@ li{
 span{
   color: white;
   font-weight: bold;
+}
+@media only screen and (max-width: 840px) {
+
+  p{
+    font-size: 14px;
+  }
+  .service-container{
+    width: 100%;
+  }
+  li{
+    font-size: 14px;
+  }
+
 }
 }
 
@@ -265,6 +291,21 @@ span{
     width: 300px;
     height: 300px;
   }
+  @media only screen and (max-width: 840px) {
+
+    p{
+      font-size: 15px;
+    }
+    li{
+      font-size: 15px;
+    }
+    .container{
+      width: 80%;
+    }
+    a{
+      width: auto;
+    }
+  }
 }
 
 //Footer
@@ -276,4 +317,11 @@ span{
   align-items: center;
   padding: 1rem 1rem 1rem !important;
   color: #7561bb;
+  @media only screen and (max-width: 840px) {
+
+    p{
+      font-size: 12px;
+      text-align: center;
+    }
+  }
 }

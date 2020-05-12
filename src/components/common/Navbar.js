@@ -15,7 +15,7 @@ class Navbar extends React.Component{
       <nav className="navbar is-fixed-top is-transparent" id="navi">
       <div className="container">
       <div className="navbar-brand">
-      <Link className="navbar-item" to="/">PCOS PARTY</Link>
+      <Link className="navbar-item" to="/pcos-launch">PCOS PARTY</Link>
         <span className={`navbar-burger ${navbarOpen ? 'is-active' : ''}`} onClick={this.toggleNavbar} alt="navbar-burger">
         <span></span>
         <span></span>

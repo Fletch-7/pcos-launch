@@ -109,6 +109,16 @@ span{
   }
   .quote{
     font-size: 14px;
+    width: 90%;
+  }
+  h1{
+    font-size: 22px;
+  }
+  h2{
+    font-size: 22px;
+  }
+  a{
+    width: auto;
   }
   
 
@@ -173,7 +183,7 @@ span{
 //FAQ PAGE
 #faq-title{
   text-align: center;
-  font-size: 40px;
+  font-size: 33px;
   font-weight: bold;
   color: #7561bb;
 }
@@ -222,6 +232,12 @@ span{
   }
   li{
     font-size: 14px;
+  }
+  a{
+    width: auto;
+  }
+  h2{
+    font-size: 20px;
   }
 
 }

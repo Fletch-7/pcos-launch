@@ -34,7 +34,7 @@ class Contact extends React.Component{
         <br/>
 
         <div className="contact-pics">
-          <div className="pic-container">
+          <div className="contact-container">
             <img src={P1} id="profile" alt="pic" className="is-flex-mobile"/>
             <img src={P2} id="profile" alt="pic" className="is-hidden-mobile"/>
           </div>

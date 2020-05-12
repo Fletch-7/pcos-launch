@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import G1 from '../assets/gym-2.JPG'
+import G1 from '../assets/gym-sq.JPG'
 import G2 from '../assets/gym-7.JPG'
 import G3 from '../assets/gym-6.JPG'
 
@@ -71,7 +71,7 @@ class FAQ extends React.Component{
         <div className="service-container">
           <h2 className="title" id="title-main">Personal Training</h2>
           <br/>
-            <p>As a qualified Level 2 and 3 personal trainer, 1 to 1 sessions are available over video or zoom call only.</p>
+            <p>As a qualified level 2 and 3 personal trainer, 1 to 1 private sessions are available. Please get in contact for more information and pricing.</p>
         </div>
       </div>
 

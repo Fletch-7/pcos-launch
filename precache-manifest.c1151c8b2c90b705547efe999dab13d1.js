@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4b3264afa118b3c45511aab712f60d4",
+    "revision": "3b5db2ddb80219785b45064a5c385e0d",
     "url": "/pcos-launch/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/css/2.c4f291ab.chunk.css"
   },
   {
-    "revision": "55041842bdff669e3a1f",
-    "url": "/pcos-launch/static/css/main.7a57043e.chunk.css"
+    "revision": "be53a399a521e1609287",
+    "url": "/pcos-launch/static/css/main.25d3090a.chunk.css"
   },
   {
     "revision": "ed8e93454e70b9c2bfc0",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcos-launch/static/js/2.5b75f7c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55041842bdff669e3a1f",
+    "revision": "be53a399a521e1609287",
     "url": "/pcos-launch/static/js/main.770d4893.chunk.js"
   },
   {

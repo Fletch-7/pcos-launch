@@ -9,10 +9,12 @@ import FAQ from './components/common/FAQ'
 import Contact from './components/common/Contact'
 import Diet from './components/forms/Diet'
 import Footer from './components/common/Footer'
+import ScrollToTop from './components/navigation/Navigation'
 
 function App() {
   return (
   <BrowserRouter>
+  <ScrollToTop/>
     <main>
     <Navbar/>
     <Switch>
